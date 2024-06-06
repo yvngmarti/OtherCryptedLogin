@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtherCryptedLogin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+260b9472cb3a04463fe11cff05557eb891090d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtherCryptedLogin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtherCryptedLogin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
