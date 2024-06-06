@@ -1,0 +1,33 @@
+﻿<Window x:Class="OtherCryptedLogin.Presentation.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OtherCryptedLogin.Presentation"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Title="Register"
+        Height="500"
+        Width="340">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" CornerRadius="10 0 0 10" Background="#ffffff">
+            <StackPanel VerticalAlignment="Center" Margin="20">
+                <TextBlock Text="REGÍSTRATE" Style="{StaticResource titleText}" FontFamily="Jost Light" />
+                <TextBlock Text="Crea una nueva cuenta con nosotros" Style="{StaticResource normalText}" FontFamily="Jost Medium" />
+                <TextBlock Text="Correo electrónico:" Style="{StaticResource normalText}" FontFamily="Jost Medium" Margin="0 10 0 0"/>
+                <TextBox x:Name="txtRegisterEmail" Background="#ffffff" Foreground="#888888" FontFamily="Jost Regular" FontSize="20" Style="{StaticResource textBox}" VerticalContentAlignment="Center" Margin="10,0,10,0" />
+                <TextBlock Text="Contraseña:" Style="{StaticResource normalText}" FontFamily="Jost Medium" Margin="0 10 0 0"/>
+                <PasswordBox x:Name="txtRegisterPassword" Background="#ffffff" Foreground="#888888" Style="{StaticResource textBox}" VerticalContentAlignment="Center" Margin="10,0,10,0" />
+                <Button Content="Registrar" Click="RegisterButton_Click" Style="{StaticResource mainbutton}" Margin="0 20 0 0" />
+                <Button Content="Volver" Click="BackButton_Click" Style="{StaticResource mainbutton}" Background="#888888" Margin="0 20 0 0" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
