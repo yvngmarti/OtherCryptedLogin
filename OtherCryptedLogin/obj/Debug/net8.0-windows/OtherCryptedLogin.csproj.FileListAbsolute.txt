@@ -21,3 +21,4 @@ C:\Users\nitra\source\repos\OtherCryptedLogin\OtherCryptedLogin\obj\Debug\net8.0
 C:\Users\nitra\source\repos\OtherCryptedLogin\OtherCryptedLogin\obj\Debug\net8.0-windows\App.baml
 C:\Users\nitra\source\repos\OtherCryptedLogin\OtherCryptedLogin\obj\Debug\net8.0-windows\Presentation\RegisterWindow.g.cs
 C:\Users\nitra\source\repos\OtherCryptedLogin\OtherCryptedLogin\obj\Debug\net8.0-windows\Presentation\RegisterWindow.baml
+C:\Users\nitra\source\repos\OtherCryptedLogin\OtherCryptedLogin\obj\Debug\net8.0-windows\OtherCryptedLogin.sourcelink.json
