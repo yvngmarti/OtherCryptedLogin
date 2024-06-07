@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using System.Windows.Controls;
 using OtherCryptedLogin.ApplicationData.UseCases;
 using OtherCryptedLogin.Infrastructure.Repositories;
 using OtherCryptedLogin.Infrastructure.ServicesImplementation;
@@ -14,8 +15,29 @@ namespace OtherCryptedLogin.Presentation
             InitializeComponent();
             var encryptionService = new EncryptionService();
             var passwordValidator = new PasswordValidator();
+            var emailValidator = new EmailValidator();
             var userRepository = new UserRepository();
-            _registerUser = new RegisterUser(encryptionService, passwordValidator, userRepository);
+            _registerUser = new RegisterUser(encryptionService, passwordValidator, emailValidator, userRepository);
+        }
+
+        private void TogglePlaceholder(TextBox textBox, TextBlock textBlock)
+        {
+            textBlock.Visibility = string.IsNullOrEmpty(textBox.Text) ? Visibility.Visible : Visibility.Collapsed;
+        }
+
+        private void TogglePlaceholder(PasswordBox passwordBox, TextBlock textBlock)
+        {
+            textBlock.Visibility = string.IsNullOrEmpty(passwordBox.Password) ? Visibility.Visible : Visibility.Collapsed;
+        }
+
+        private void txtEmail_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            TogglePlaceholder(txtRegisterEmail, textEmail);
+        }
+
+        private void txtPassword_PasswordChanged(object sender, RoutedEventArgs e)
+        {
+            TogglePlaceholder(txtRegisterPassword, textPassword);
         }
 
         private void RegisterButton_Click(object sender, RoutedEventArgs e)
@@ -32,7 +54,7 @@ namespace OtherCryptedLogin.Presentation
             }
             else
             {
-                MessageBox.Show("La contraseña no cumple con los requisitos de robustez.");
+                MessageBox.Show("El registro ha fallado. Verifique su email y contraseña.");
             }
         }
 

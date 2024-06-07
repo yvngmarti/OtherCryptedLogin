@@ -64,7 +64,7 @@
 
                         <Image Source="Images/email.png" Height="20" Margin="15 5"/>
                         <TextBox x:Name="txtEmail" TextChanged="txtEmail_TextChanged" Background="#e6dad9" Foreground="#888888" FontFamily="Jost Regular" FontSize="20" Style="{StaticResource textBox}" VerticalContentAlignment="Center" Grid.Column="1" Margin="10,0,10,0"/>
-                        <TextBlock x:Name="textEmail" Text="Email" IsHitTestVisible="False" FontFamily="Jost Regular" Style="{StaticResource textHint}" Grid.Column="1" Margin="10,0,10,0"/>
+                        <TextBlock x:Name="textEmail" Text="Correo electrónico" IsHitTestVisible="False" FontFamily="Jost Regular" Style="{StaticResource textHint}" Grid.Column="1" Margin="10,0,10,0"/>
                     </Grid>
                 </Border>
 
@@ -77,7 +77,7 @@
 
                         <Image Source="Images/lock.png" Height="20" Margin="15 5"/>
                         <PasswordBox x:Name="txtPassword" PasswordChanged="txtPassword_PasswordChanged" Background="#e6dad9" Foreground="#888888" Style="{StaticResource textBox}" VerticalContentAlignment="Center" Grid.Column="1" Margin="20,0,20,0"/>
-                        <TextBlock x:Name="textPassword" Text="Password" IsHitTestVisible="False" FontFamily="Jost Regular" Style="{StaticResource textHint}" Grid.Column="1" Margin="20,0,20,0"/>
+                        <TextBlock x:Name="textPassword" Text="Contraseña" IsHitTestVisible="False" FontFamily="Jost Regular" Style="{StaticResource textHint}" Grid.Column="1" Margin="20,0,20,0"/>
                     </Grid>
                 </Border>
 

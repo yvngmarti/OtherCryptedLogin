@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\presentation\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\presentation\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\applicationdata\\usecases\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\applicationdata\\usecases\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\infrastructure\\servicesimplementation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\infrastructure\\servicesimplementation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\domain\\services\\iemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\domain\\services\\iemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\domain\\services\\ipasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\domain\\services\\ipasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\infrastructure\\servicesimplementation\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\infrastructure\\servicesimplementation\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\infrastructure\\servicesimplementation\\encryptationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\infrastructure\\servicesimplementation\\encryptationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\applicationdata\\usecases\\validateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\applicationdata\\usecases\\validateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\presentation\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\presentation\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\domain\\services\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\domain\\services\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|c:\\users\\nitra\\source\\repos\\othercryptedlogin\\othercryptedlogin\\data\\user_data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EA44B37-1AE6-41C5-A139-5AA039BD1484}|OtherCryptedLogin\\OtherCryptedLogin.csproj|solutionrelative:othercryptedlogin\\data\\user_data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EmailValidator.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EmailValidator.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EmailValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:36:14.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Services\\IEmailValidator.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Domain\\Services\\IEmailValidator.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Services\\IEmailValidator.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Domain\\Services\\IEmailValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:35:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\AssemblyInfo.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:27:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Services\\IPasswordValidator.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Domain\\Services\\IPasswordValidator.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Services\\IPasswordValidator.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Domain\\Services\\IPasswordValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:21:00.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Services\\IEncryptionService.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Domain\\Services\\IEncryptionService.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Services\\IEncryptionService.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Domain\\Services\\IEncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:20:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\App.xaml.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:56:01.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\MainWindow.xaml",
+              "RelativeToolTip": "OtherCryptedLogin\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T03:25:10.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptationService.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EncryptationService.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EncryptationService.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EncryptationService.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\EncryptationService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvzAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:23:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "user_data.xml",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Data\\user_data.xml",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Data\\user_data.xml",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Data\\user_data.xml",
+              "RelativeToolTip": "OtherCryptedLogin\\Data\\user_data.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-06T07:22:15.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\App.xaml",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\App.xaml",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\App.xaml",
+              "RelativeToolTip": "OtherCryptedLogin\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:45:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Presentation\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Presentation\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Presentation\\RegisterWindow.xaml",
+              "RelativeToolTip": "OtherCryptedLogin\\Presentation\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:26:05.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Presentation\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Presentation\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Presentation\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Presentation\\RegisterWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:28:27.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:22:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidateUser.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\ApplicationData\\UseCases\\ValidateUser.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\ApplicationData\\UseCases\\ValidateUser.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\ApplicationData\\UseCases\\ValidateUser.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\ApplicationData\\UseCases\\ValidateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:19:47.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\ApplicationData\\UseCases\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\ApplicationData\\UseCases\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\ApplicationData\\UseCases\\RegisterUser.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\ApplicationData\\UseCases\\RegisterUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:19:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:19:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:19:08.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\nitra\\source\\repos\\OtherCryptedLogin\\OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\PasswordValidator.cs",
+              "RelativeToolTip": "OtherCryptedLogin\\Infrastructure\\ServicesImplementation\\PasswordValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:18:15.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1044,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

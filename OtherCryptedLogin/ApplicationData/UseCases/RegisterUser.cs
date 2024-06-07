@@ -8,17 +8,24 @@ namespace OtherCryptedLogin.ApplicationData.UseCases
     {
         private readonly IEncryptionService _encryptionService;
         private readonly IPasswordValidator _passwordValidator;
+        private readonly IEmailValidator _emailValidator;
         private readonly UserRepository _userRepository;
 
-        public RegisterUser(IEncryptionService encryptionService, IPasswordValidator passwordValidator, UserRepository userRepository)
+        public RegisterUser(IEncryptionService encryptionService, IPasswordValidator passwordValidator, IEmailValidator emailValidator, UserRepository userRepository)
         {
             _encryptionService = encryptionService;
             _passwordValidator = passwordValidator;
+            _emailValidator = emailValidator;
             _userRepository = userRepository;
         }
 
         public bool Execute(string email, string password)
         {
+            if (!_emailValidator.Validate(email))
+            {
+                return false;
+            }
+
             if (!_passwordValidator.Validate(password))
             {
                 return false;
@@ -26,11 +33,19 @@ namespace OtherCryptedLogin.ApplicationData.UseCases
 
             var user = new User
             {
-                Email = _encryptionService.Encrypt(email),
+                Email = _encryptionService.Encrypt(email.ToLower()),
                 Password = _encryptionService.Encrypt(password)
             };
 
-            _userRepository.Save(user);
+            try
+            {
+                _userRepository.Save(user);
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+
             return true;
         }
     }
